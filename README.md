@@ -1,1 +1,2 @@
 # animuwiroh
+print ("hello world")
